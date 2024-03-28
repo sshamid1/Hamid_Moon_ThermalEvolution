@@ -1,0 +1,1 @@
+We compute the thermochemical evolution of the lunar core with a 1D parameterized model tied to extant simulations of mantle evolution and BMO solidification. Reference: Saira S. Hamid et al 2023 Planet. Sci. J. 4 88
