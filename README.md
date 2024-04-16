@@ -1,6 +1,6 @@
-We compute the thermochemical evolution of the lunar core with a 1D parameterized model tied to extant simulations of mantle evolution and BMO solidification. 
+This 1D parameterized model computes the thermochemical evolution of the lunar core and is tied to extant simulations of mantle evolution and BMO solidification. 
 
-Simply run model_ThermalEvolution to get started
+Simply download all files into one directory and then run `modelThermalEvolutionFull.m` to get started. You can specifiy some intial conditions and change the BMO model input used by the code. 
 
 Reference: Saira S. Hamid et al 2023 Planet. Sci. J. 4 88. https://doi.org/10.3847/PSJ/accb99 
 
